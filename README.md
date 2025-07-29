@@ -16,8 +16,8 @@ Save and deploy the trained model for future predictions.
 # 🧰 Tech Stack:
 Python 3.8+
 
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost
+Libraries: pandas, numpy, scikit-learn, matplotlib, 
 
-Modeling:Linear Regression ,Logistic Regression,Decision Tree, Random Forest, XGBoost
+Modeling:Linear Regression ,Logistic Regression,Decision Tree, Random Forest
 
-Visualization: Seaborn, Matplotlib
+Visualization: Matplotlib
